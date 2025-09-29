@@ -1,8 +1,8 @@
-# 🌐 GoogOne SDS / MSDS Documentation
+# 🌐 GooGone SDS / MSDS Documentation
 
 > “Transparency in chemicals. Safety in knowledge.”
 
-This repository is a community-driven collection of **Safety Data Sheets (SDS / MSDS)** and related safety documentation for **GoogOne** products. Our goal is to make chemical safety information open, structured, and useful — for families, educators, researchers, first responders, and innovators.
+This repository is a community-driven collection of **Safety Data Sheets (SDS / MSDS)** and related safety documentation for **GooGone** products. Our goal is to make chemical safety information open, structured, and useful — for families, educators, researchers, first responders, and innovators.
 
 ---
 
@@ -31,7 +31,7 @@ Even though safety information is often published, it tends to suffer from:
 
 This repo aims to:
 
-- **Gather & centralize** all available GoogOne SDS / MSDS
+- **Gather & centralize** all available GooGone SDS / MSDS
 - **Convert & structure** them for easier use (JSON, YAML, CSV, etc.)
 - **Open access** to empower learning, safety, AI, and community resilience
 - **Support public health & safety** by making chemical information more accessible
@@ -142,4 +142,4 @@ By participating in this project, you help:
 Let’s build a future where **transparency in chemicals = safety for all** — one SDS at a time.
 
 Thank you for exploring, contributing, caring.
-— The GoogOne SDS / MSDS Documentation Team
+— The GooGone SDS / MSDS Documentation Team
